@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
