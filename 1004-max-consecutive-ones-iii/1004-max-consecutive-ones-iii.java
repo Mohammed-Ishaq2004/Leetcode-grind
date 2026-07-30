@@ -16,7 +16,7 @@ class Solution {
                 }
                 left++;
             }
-
+//we just maintaining a window with 2 zeroes at all times soi counting is not required just window size of right-left+1 is compared to get maxlen 
             // 3. Current window [left ... right] is valid
             maxLen = Math.max(maxLen, right - left + 1);
         }
