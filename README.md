@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0228-summary-ranges) |
+| [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
+| [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
