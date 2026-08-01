@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0228-summary-ranges) |
+| [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -34,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
