@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
