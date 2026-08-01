@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0228-summary-ranges) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
