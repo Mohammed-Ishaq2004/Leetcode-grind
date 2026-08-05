@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0228-summary-ranges) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
