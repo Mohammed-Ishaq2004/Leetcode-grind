@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
