@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
