@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0283-move-zeroes) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
