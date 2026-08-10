@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
