@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
