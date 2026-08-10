@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
