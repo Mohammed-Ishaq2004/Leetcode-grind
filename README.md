@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
+| [3731-find-missing-elements](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3731-find-missing-elements](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
+| [3731-find-missing-elements](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
