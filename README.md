@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0169-majority-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0205-isomorphic-strings) |
