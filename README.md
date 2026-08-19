@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3731-find-missing-elements](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3731-find-missing-elements) |
 ## Math
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
