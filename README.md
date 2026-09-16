@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
