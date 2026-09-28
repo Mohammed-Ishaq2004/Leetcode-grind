@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
