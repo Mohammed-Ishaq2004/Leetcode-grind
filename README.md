@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Quicksort
 |  |
 | ------- |
@@ -350,4 +353,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
