@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 ## Quicksort
 |  |
 | ------- |
@@ -348,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
