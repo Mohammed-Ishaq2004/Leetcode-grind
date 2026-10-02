@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
