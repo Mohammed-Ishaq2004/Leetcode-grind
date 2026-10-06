@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0054-spiral-matrix) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
