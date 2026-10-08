@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1021-remove-outermost-parentheses) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
