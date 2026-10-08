@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0073-set-matrix-zeroes) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0090-subsets-ii) |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
