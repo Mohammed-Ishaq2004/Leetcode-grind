@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0326-power-of-three) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1922-count-good-numbers) |
