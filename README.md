@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Mohammed-Ishaq2004/Leetcode-grind/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Quicksort
